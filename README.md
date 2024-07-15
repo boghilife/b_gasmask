@@ -2,7 +2,8 @@
 
 # b_gasmask
 ### You need to have the r_scba script in order to use this resource!
-A simple resource that enable a Gas Mask compatible only with the paid script ["Firefighter SCBA System"](https://docs.rytrak.fr/scripts/firefighter-scba-system) by rytrak.fr\nThe script is working with the export <kbd>exports['r_scba']:SetPlayerCough()</kbd>.
+A simple resource that enable a Gas Mask compatible only with the paid script ["Firefighter SCBA System"](https://docs.rytrak.fr/scripts/firefighter-scba-system) by rytrak.fr
+The script is working with the export <kbd>exports['r_scba']:SetPlayerCough()</kbd>.
 
 
 
